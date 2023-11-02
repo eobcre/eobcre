@@ -2,3 +2,17 @@
 
 I'm Emmy! I have experience working in the IT industry and am skilled in coding and designing. I am passionate about creative coding and am always curious about learning new technologies!
 
+### Skills
+- HTML and CSS
+- JavaScript
+- React.js
+- Next.js (Currently, working on.)
+- Tailwind
+- Sass
+- TypeScript
+- Git
+- GitHub
+- Heroku
+
+### Connect with me!
+Let's dive deep into the world of JavaScript and React together. Feel free to follow and connect with me!
