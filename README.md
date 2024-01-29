@@ -15,4 +15,4 @@ I'm Emmy! I have experience working in the IT industry and am skilled in coding 
 - Heroku
 
 ### Connect with me!
-Let's dive deep into the world of JavaScript and React together. Feel free to follow and connect with me!
+Let's dive deep into it. Feel free to follow and connect with me!
