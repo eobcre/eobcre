@@ -13,6 +13,7 @@ I'm Emmy! I have experience working in the IT industry and am skilled in coding 
 - Git
 - GitHub
 - Heroku
+- Vercel
 
 ### Connect with me!
 Let's dive deep into it. Feel free to follow and connect with me!
