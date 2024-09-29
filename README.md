@@ -10,10 +10,15 @@ I'm Emmy! I have experience working in the IT industry and am skilled in coding 
 - Tailwind
 - Sass
 - TypeScript
+- Mongo DB
+- Postgres
+- Supabase
+- RESTful API
 - Git
 - GitHub
 - Heroku
 - Vercel
+- AWS
 
 ### Connect with me!
 Feel free to follow and connect with me!
