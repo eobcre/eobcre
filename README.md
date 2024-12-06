@@ -5,7 +5,7 @@ I'm Emmy! Fast-forward to the present, I am currently developing an operating sy
 During my time away from the computer, I'm usually reading, cooking and enjoying a coffee at cafe. These moments away from the screen recharge my creativity and keep me inspired.
 
 ### Skills
-HTML and CSS, JavaScript, React.js, Next.js, Tailwind, Sass, TypeScript, Zustand, Tanstack Query, Mongo DB, Postgres, Supabase, REST API, Git, AWS
+HTML and CSS, JavaScript, React.js, Next.js, Vite, Tailwind, Sass, TypeScript, Zustand, Tanstack Query (React Query), Mongo DB, Postgres, Supabase, REST API, Git, Jest, AWS
 
 ### Connect with me!
 Feel free to follow and connect with me!
